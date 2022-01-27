@@ -5,7 +5,6 @@ const jwt = require("jsonwebtoken")
 //------------------------1st-CREATE AUTHOR-------------------------------
 
 
-
 const createAuthor = async function (req, res) {
 
     try {
